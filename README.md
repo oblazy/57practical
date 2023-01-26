@@ -5,4 +5,4 @@ I found an old book in my library
 
 In this repo, i decided to slowly implement them again in python, mondernizing them and avoiding all of the goto magic :)
 
-1) Annumar Section  (01/26/23)
+1) Annular Section  (01/26/23)
